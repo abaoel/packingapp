@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src="./public/image.png" alt="App Image">
+<img src="./src/image.png" alt="App Image">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
