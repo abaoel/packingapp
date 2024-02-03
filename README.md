@@ -1,4 +1,5 @@
-# Packing App -> created in ReactJs
+# Packing App created in ReactJs
+This app helps you organized your needs in traveling.
 
 <img src="./src/image.png" alt="App Image">
 
